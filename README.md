@@ -3,7 +3,8 @@ Nested Virtualization on GCP
 
 
 To goal is to install windows on google cloud platform in trial period. 
-```Windows VM instances are not included with the free trial. To use them, first enable billing on your account. You'll still be able to apply your free trial credits to eligible products and services.```
+
+![image](https://github.com/m0ns7er/Nested-Virtualization/assets/13703520/5463b1c8-6ad3-44a6-acd8-600d743354dd)
 
 
 Create ubuntu instance with N2 machine type (4vCPU, 2 Core, 16 GB memry) and do not boot up. Just stop it after creating instance. 
