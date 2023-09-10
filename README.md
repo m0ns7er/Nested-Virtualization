@@ -37,7 +37,7 @@ grep -cw vmx /proc/cpuinfo
 
 Download the zip
 ```
-curl -o src-cloud.zip
+curl -o src-cloud.zip https://github.com/m0ns7er/Nested-Virtualization/blob/main/src-cloud.zip
 ```
 Update the default repository and install unzip. 
 ```
