@@ -2,7 +2,7 @@
 Nested Virtualization on GCP
 
 
-To goal is to install windows on google cloud platform in trial period. 
+Goal is to install windows on google cloud platform in trial period. 
 
 ![image](https://github.com/m0ns7er/Nested-Virtualization/assets/13703520/5463b1c8-6ad3-44a6-acd8-600d743354dd)
 
